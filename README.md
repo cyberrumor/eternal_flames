@@ -7,7 +7,6 @@ Features
 - Replaces fire with eternal fire.
 - Extinguishes candles, torches, sconces, chandeliers, and lanterns.
 - If a ruin is partially inhabited by humans, there will still be mortal fire in relevant places.
-- Removes hundreds of fake lights.
 - All ember meshes have corrected glow maps so light doesn't leak through the opaque basins.
 - Creepy.
 
